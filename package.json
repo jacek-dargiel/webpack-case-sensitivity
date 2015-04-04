@@ -1,0 +1,22 @@
+{
+  "name": "webpack-case-sensitivity",
+  "version": "1.0.0",
+  "description": "This test case shows webpack.watch being case sensitive, while webpack build process is case insensitive",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jacek-dargiel/webpack-case-sensitivity.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jacek-dargiel/webpack-case-sensitivity/issues"
+  },
+  "homepage": "https://github.com/jacek-dargiel/webpack-case-sensitivity",
+  "dependencies": {
+    "webpack": "^1.7.3"
+  }
+}
